@@ -6,6 +6,7 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Boyang Hu!\n");
+    printf("Boyang Hu\n");
+    printf("Computer Engineering\n");
     return 0;
 }
